@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="locales"/>
-	<classpathentry kind="src" path="src-beans"/>
-	<classpathentry kind="src" path="src-pos"/>
 	<classpathentry kind="src" path="reports"/>
-	<classpathentry kind="src" path="src-erp"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry exported="true" kind="lib" path="lib/TfhkaJava.jar"/>
 	<classpathentry kind="lib" path="lib/swing-layout-1.0.4.jar"/>
@@ -15,11 +12,9 @@
 	<classpathentry kind="lib" path="lib/RXTXcomm.jar"/>
 	<classpathentry kind="lib" path="lib/substance.jar"/>
 	<classpathentry kind="lib" path="lib/activemq-all-5.5.0.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/open-bravo-pos-mq"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/TestPrinter"/>
-	<classpathentry kind="lib" path="Z:/workspace/open-bravo-pos-custom/lib/jasperreports-3.1.4.jar"/>
 	<classpathentry kind="lib" path="lib/mail.jar"/>
 	<classpathentry kind="lib" path="lib/log4j-1.2.14.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.5.11.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Openbravo POS"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
