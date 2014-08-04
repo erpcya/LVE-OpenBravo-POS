@@ -16,6 +16,7 @@
 	<classpathentry kind="lib" path="lib/mail.jar"/>
 	<classpathentry kind="lib" path="lib/log4j-1.2.14.jar"/>
 	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.5.11.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/Openbravo POS"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/LVE-Fiscal-Printer"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/OpenBravoPOSMQ"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
