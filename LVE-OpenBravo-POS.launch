@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/LVE-OpenBravo-POS"/>
+<listEntry value="/OpenBravoPOSMQ/src-pos/com/openbravo/pos/forms/StartPOS.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
-<listEntry value="4"/>
+<listEntry value="1"/>
 </listAttribute>
 <mapAttribute key="org.eclipse.debug.core.environmentVariables">
 <mapEntry key="LANG" value="en_US.UTF-8"/>
@@ -14,6 +14,7 @@
 <listEntry value="org.eclipse.debug.ui.launchGroup.run"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.openbravo.pos.forms.StartPOS"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="&quot;/opt/Development/OpenBravo_Properties/LVE-OpenBravo-POS.properties&quot;"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="LVE-OpenBravo-POS"/>
-<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-DPropertyFile=/opt/Development/OpenBravo_Properties/OpenBravoPOSCustom.properties&#13;&#10;-Xms128M&#13;&#10;-Xmx256M"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-DPropertyFile=/opt/Development/OpenBravo_Properties/LVE-OpenBravo-POS.properties&#13;&#10;-Xms128M&#13;&#10;-Xmx256M"/>
 </launchConfiguration>
